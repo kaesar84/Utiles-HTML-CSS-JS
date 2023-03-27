@@ -26,8 +26,8 @@ html {
 /* Formulario */
 
 #container-formulario{
-  width: 70%;
-  height: 70%;
+  width: 40%;
+  height: 65%;
   margin: 75px;
   display: flex;
   flex-direction: column;
@@ -35,10 +35,11 @@ html {
   align-items: center;
   background-color: #242629;
   padding-top: 25px; 
+  border-radius: 10px;
 }
   
   #formulario {
-    width: 80%;
+    width: 50%;
     min-width: 605px;
     height: 820px;
     display: flex;
@@ -64,6 +65,7 @@ html {
     border-radius: 2px;
     font-family: "Teko", sans-serif;
     color: #ffffff;
+    
   }
   
   #botonFormulario{
@@ -103,18 +105,21 @@ html {
   }
   
   #modalFormulario{
-    width:80%;
-    height:80%;
-    background-color: #242629;
+    width:100vw;
+    height:100vh;
+    /*background-color: #242629;*/
+    position: fixed;
     display: none;
+    z-index: 5;
     flex-direction: center;
     align-content: center;
     justify-content: center;
+    background-color: rgba(4, 8, 15, 0.8);
    
   }
   #modalBoxF{
-    width:50%;
-    height: 40%;
+    width:30%;
+    height: 30%;
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -122,6 +127,7 @@ html {
     justify-content: center;
     align-self: center;
     border-radius: 25px;
+    
   }
   #botonfmodal{
     width: 150px;

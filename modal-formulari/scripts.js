@@ -13,10 +13,12 @@ function test(){
 
 contactarAbrir= ()=>{
   document.getElementById("modalFormulario").style.display="flex";
-  document.getElementById("container-formulario").style.display="none";
+  /*document.getElementById("container-formulario").style.display="none";*/
+  document.documentElement.style.overflow="hidden";
 }
 
 contactarCerrar= ()=>{
   document.getElementById("modalFormulario").style.display="none";
-  document.getElementById("container-formulario").style.display="flex";
+  /*document.getElementById("container-formulario").style.display="flex";*/
+  document.documentElement.style.overflow="auto";
 }
