@@ -1,0 +1,139 @@
+* {
+  /* Eliminamos padding y margen por defecto*/
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  /* Optimizado para ancho de 1920px*/
+  width: 1920px;
+  /* Podríamos asignar valor fijo y mejoraría comportamiento en pantallas de menor definición*/
+  font-family: "Teko", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #40454b;
+}
+
+
+/* Formulario */
+
+#container-formulario{
+  width: 70%;
+  height: 70%;
+  margin: 75px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #242629;
+  padding-top: 25px; 
+}
+  
+  #formulario {
+    width: 80%;
+    min-width: 605px;
+    height: 820px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+  }
+  
+  label {
+    color: #94a1b2;
+    font-size: 32px;
+  }
+  
+  input {
+    width: 100%;
+    min-width: 590px;
+    padding: 10px;
+    padding-right: 0px;
+    margin-bottom: 25px;
+    font-size: 24px;
+    border: #242629;
+    border-bottom: solid 8px #7f5af0;
+    background-color: #40454b;
+    border-radius: 2px;
+    font-family: "Teko", sans-serif;
+    color: #ffffff;
+  }
+  
+  #botonFormulario{
+   width: 150px;
+  height: 45px;
+  background-color: #7f5af0;
+  border-radius: 6px;
+  border: none;
+  color: #ffffff;
+  font-family: "Teko", sans-serif;
+  font-size: 24px;
+  align-self: flex-end;
+  padding: 5px;
+  transition: all;
+  transition-duration: 0.2s;
+  }
+  
+  button:hover {
+    background-color: #40454b;
+    border: solid 1px #7f5af0;
+    transform: scale(1.1);
+  }
+  
+  .datos-contacto {
+    width: 50%;
+    color: #94a1b2;
+    font-family: "Teko", sans-serif;
+    font-size: 42px;
+    align-self: flex-end;
+    text-align: right;
+  }
+  
+  .material-symbols-outlined {
+    font-size: 48px;
+    color: #7f5af0;
+    margin-right: 10px;
+  }
+  
+  #modalFormulario{
+    width:80%;
+    height:80%;
+    background-color: #242629;
+    display: none;
+    flex-direction: center;
+    align-content: center;
+    justify-content: center;
+   
+  }
+  #modalBoxF{
+    width:50%;
+    height: 40%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    border-radius: 25px;
+  }
+  #botonfmodal{
+    width: 150px;
+    height: 45px;
+    background-color: #7f5af0;
+    border-radius: 6px;
+    border: none;
+    color: #ffffff;
+    font-family: "Teko", sans-serif;
+    font-size: 24px;
+    padding: 5px;
+    transition: all;
+    transition-duration: 0.2s;
+    margin-top: 25px;
+  }

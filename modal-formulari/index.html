@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modal formulario</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Teko&display=swap" rel="stylesheet" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+  <!-- Google Icons  -->
+  <script src="scripts.js"></script>
+</head>
+
+<body>
+
+  <div class="container">
+
+
+
+      <!-- Formulario -->
+      <div id="container-formulario">
+        
+        <form id="formulario" action="">
+          <p class="datos-contacto">Datos de contacto</p>
+          <label for="nombre">
+            <span class="material-symbols-outlined"> account_circle </span>
+            Nombre</label>
+          <input type="text" name="nombre" id="nombre" />
+          <label for="apellidos"><span class="material-symbols-outlined"> account_circle </span>
+            Apellidos</label>
+          <input type="text" name="apellidos" id="apellidos" />
+          <label for="telefono">
+            <span class="material-symbols-outlined">call </span>
+            Télefono</label>
+          <input type="number" name="telefono" id="telefono" />
+          <label for="email"><span class="material-symbols-outlined">
+              alternate_email
+            </span>
+            E-mail</label>
+          <input type="email" name="email" id="email" />
+          <button id="botonFormulario" onclick="contactarAbrir()" type="button">Enviar</input>
+     
+        </form>
+        
+     
+     
+     
+     
+     
+      </div>
+
+
+    <div id="modalFormulario">
+      <div id="modalBoxF">
+        <h1>Enseguida contactaremos con vosotros</h1>
+        <button id="botonfmodal" onclick="contactarCerrar()">Dale</button>
+      </div>
+    </div>
+
+  </div>
+
+
+</body>
+
+</html>
