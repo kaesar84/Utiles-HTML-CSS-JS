@@ -36,9 +36,16 @@ contactarAbrir = () => {
     }
   })();
 
-  contactarCerrar = () => {
-    document.getElementById("modalFormulario").style.display = "none";
-    /*document.getElementById("container-formulario").style.display="flex";*/
-    document.documentElement.style.overflow = "auto";
-  };
 };
+
+contactarCerrar = () => {
+  document.getElementById("modalFormulario").style.display = "none";
+  /*document.getElementById("container-formulario").style.display="flex";*/
+  document.documentElement.style.overflow = "auto";
+
+  var nombre = (document.getElementById("formNombre").value = "");
+  var apellidos = (document.getElementById("formApellidos").value = "");
+  var telefono = (document.getElementById("formTel").value = "");
+  var email = (document.getElementById("formEmail").value = "");
+};
+
