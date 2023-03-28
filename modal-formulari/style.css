@@ -143,3 +143,9 @@ html {
     transition-duration: 0.2s;
     margin-top: 25px;
   }
+
+  #mensajeFormulario{
+    font-size: 32px;
+    text-align: center;
+    
+  }

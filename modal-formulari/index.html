@@ -22,39 +22,36 @@
 
     <!-- Formulario -->
     <div id="container-formulario">
-
       <form id="formulario" action="">
         <p class="datos-contacto">Datos de contacto</p>
         <label for="nombre">
           <span class="material-symbols-outlined"> account_circle </span>
           Nombre</label>
-        <input id="formNombre" type="text" name="nombre" id="nombre" />
+        <input type="text" id="formNombre" name="nombre" required />
         <label for="apellidos"><span class="material-symbols-outlined"> account_circle </span>
           Apellidos</label>
-        <input id="formApellidos" type="text" name="apellidos" id="apellidos" />
+        <input type="text" id="formApellidos" name="apellidos" required />
         <label for="telefono">
-          <span class="material-symbols-outlined">call </span>
+          <span class="material-symbols-outlined">call</span>
           Télefono</label>
-        <input id="formTel"type="number" name="telefono" id="telefono" />
+        <input type="number" id="formTel" name="telefono" min="99999999" max="999999999" required />
         <label for="email"><span class="material-symbols-outlined">
             alternate_email
           </span>
           E-mail</label>
-        <input id="formEmail"type="email" name="email" id="email" />
+        <input type="email" id="formEmail" name="email" required />
         <button id="botonFormulario" onclick="contactarAbrir()" type="button">Enviar</input>
-
       </form>
-
     </div>
 
 
     <div id="modalFormulario">
       <div id="modalBoxF">
-        <h1>Enseguida contactaremos con vosotros</h1>
+        <p id="mensajeFormulario">Hola</p>
         <button id="botonfmodal" onclick="contactarCerrar()">OK</button>
       </div>
     </div>
-
+    
   </div>
 
 
