@@ -1,0 +1,68 @@
+
+h2{
+    color: aliceblue;
+}
+
+#acordeon{
+    width:100%;
+    height: 100%;
+    
+    
+}
+
+.container-botons{
+    
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+button{
+    padding: 25px;
+    margin: 25px;
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contenido{
+    width: 400px;
+    height: 300px;
+    background-color: orangered;
+    margin: 0px 10px 0px 10px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.contenido img{
+    width: 400px;
+    height: 150px;
+    background-color: red;
+    display: none;
+    position: relative;
+}
+
+
+.pest{
+    width: 400px;
+    height: 150px;
+    background-color: red;
+    display: none;
+    position: relative;
+    top: 300px;
+    
+    
+    
+}
+
