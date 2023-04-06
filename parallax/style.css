@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 100%;
+    min-height: 250px;
+    background-color: burlywood;
+    margin-top: 25px;
+    margin-bottom: 150px;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
