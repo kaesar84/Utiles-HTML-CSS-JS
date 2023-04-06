@@ -1,48 +1,19 @@
-
-.centrar{
-    width: 100%;
-    height:auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color:pink
+.acordeon {
+  display: flex;
+  flex-direction: column;
 }
 
+.acordeon-header {
+  background-color: #eee;
+  padding: 10px;
+  cursor: pointer;
+}
 
+.acordeon-body {
+  padding: 10px;
+  display: none;
+}
+.active{
+  background-color: pink;
 
-.acordeon {
-    width: 50%;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 10px;
-  }
-  
-  .acordeon .item {
-    border: 1px solid #ccc;
-    margin-bottom: 10px;
-    overflow: hidden;
-    transition: all 0.3s ease;
-    
-  }
-  
-  .acordeon .item:hover {
-    border-color: #000;
-  }
-  
-  .acordeon .item img {
-    display: block;
-    max-width: 30%;
-  }
-  
-  .acordeon .item .contenido {
-    background: #eee;
-    padding: 10px;
-    height: 0;
-    overflow: hidden;
-    transition: all 0.3s ease;
-  }
-  
-  .acordeon .item.abierto .contenido {
-    height: auto;
-  }
-  
+}

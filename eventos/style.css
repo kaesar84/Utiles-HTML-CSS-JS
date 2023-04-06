@@ -1,0 +1,22 @@
+.contenido{
+    background-color: black;
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+    border: 5px solid black;
+}
+
+.contenido1{
+    background-color: blue;
+
+}
+
+.contenido2{
+    background-color: orangered;
+
+}
+
+.contenido3{
+    background-color: yellow;
+
+}
