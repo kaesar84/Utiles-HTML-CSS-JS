@@ -1,17 +1,46 @@
+#filtro{
+  width: 100%;
+  height: auto;
+  background-color: orangered;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 25px;
+  
+}
 
 
-.container-filtro {
-    width: 80%;
+
+.container-btn-filtro{
+  width: 80%;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
     align-items: center;
-    background-color: black;
-  }
+    justify-content: center;
+   padding: 25px;
+    background-color: grey;
+   
+}
+
+
+
+
+.galeria-filtro{
+  width: 80%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items:center;
+  padding: 25px;
+  background-color: #121215;
+
+}
   
   .imgfiltro {
-    width: 200px;
-    height: 200px;
+    width: 30%;
+    height: auto;
     object-fit: cover;
     margin: 10px;
     border: 1px solid #ccc;
