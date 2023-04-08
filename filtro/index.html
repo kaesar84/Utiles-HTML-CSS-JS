@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filtro</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="scripts.js"></script>
+</head>
+<body>
+    
+    <div class="gallery">
+        <button class="filter-btn" data-filter="all">Mostrar todo</button>
+        <button class="filter-btn" data-filter="naturaleza">Naturaleza</button>
+        <button class="filter-btn" data-filter="animales">Animales</button>
+        <button class="filter-btn" data-filter="ciudad">Ciudad</button>
+        
+        <div class="img-container">
+          <img src="img/naturaleza1.jpg" data-category="naturaleza">
+          <img src="img/animales1.jpg" data-category="animales">
+          <img src="img/ciudad1.jpg" data-category="ciudad">
+          <img src="img/naturaleza2.jpg" data-category="naturaleza">
+          <img src="img/animales2.jpg" data-category="animales">
+          <img src="img/ciudad2.jpg" data-category="ciudad">
+        </div>
+      </div>
+      
+<script>
+  filtro();
+</script>
+
+</body>
+</html>

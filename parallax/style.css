@@ -1,17 +1,17 @@
-body{
-    margin: 0px;
-    padding: 0px;
-}
-
-.container{
+section{
     width: 100%;
-    min-height: 250px;
-    background-color: burlywood;
-    margin-top: 25px;
-    margin-bottom: 150px;
+    height: 1500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
-.parallax-window {
-    min-height: 400px;
-    background: transparent;
+
+.contenido{
+    width: 80%;
+    height:250px;
+   background-color: rgba(9, 9, 9, 0.7);
+   margin: 50px;
+
 }

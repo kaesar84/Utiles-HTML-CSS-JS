@@ -1,0 +1,18 @@
+
+
+.container-filtro {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+  }
+  
+  .imgfiltro {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 10px;
+    border: 1px solid #ccc;
+  }
