@@ -1,5 +1,7 @@
 *{
     font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
 #container{
@@ -9,11 +11,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 #formulario{
     width: 30vw;
-    height: 25vh;
+    height: 35vh;
     background-color: #457b9d;
     display: flex;
     flex-direction: column;
@@ -66,4 +69,28 @@ button:hover{
     color: #a8dadc;
 }
 
+.inner{ /*p insertado desde js */
+   border:2px solid #1d3557;
+   padding: 15px;
+   border-radius: 5px;
+   background-color:  #1d3557;
+    
+  
+    
+}
+
+#bienvenida{
+    width: 30vw;
+    height: 5vh;
+    background-color: #e63946;
+    color: #a8dadc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1%;
+    border-radius: 5px;
+    overflow: scroll;
+    padding: 25px;
+    font-size: 1,8rem;
+}
 

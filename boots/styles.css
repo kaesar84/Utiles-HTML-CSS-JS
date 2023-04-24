@@ -1,0 +1,76 @@
+.estructura {
+width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+.section1 {
+  width: 100%;
+  height: 80vh;
+  padding: 50px;  
+  /* background: linear-gradient(220.55deg, #00B960 0%, #00552C 100%); */
+}
+
+.section2 {
+  width: 100%;
+  height: 100vh;
+  padding: 50px;
+  /* background: linear-gradient(220.55deg, #97E8B5 0%, #5CB67F 100%); */
+
+}
+
+.equipo-container {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+  align-self: center;
+  
+}
+.equipo {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items:center;
+  flex-wrap: wrap;
+
+}
+
+.card-equipo{
+    width: 450px;
+   
+    background-color: aliceblue;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 15px;
+    margin-top: 25px;
+    background-color: #D6E8D2;
+}
+
+.card-imagen{
+top:0;
+ width: 450px;
+ height: 350px;
+ border-radius:  15px 15px 0px 0px;
+ 
+
+}
+.card-equipo-body{
+     width: 450px;
+     margin-top: 10px;
+     padding: 10px;
+     
+}
