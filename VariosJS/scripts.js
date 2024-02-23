@@ -10,3 +10,6 @@ mensaje(valor)
 })
 
 //
+
+const hola = ()=> alert('hola');
+hola;
