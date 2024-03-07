@@ -1,0 +1,947 @@
+[
+    {
+      "Categoria": "",
+      "Nombre": "",
+      "Link": "",
+      "Descripción": "",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, Fuentes, HMTL",
+      "Nombre": "Google Fonts",
+      "Link": "https://fonts.google.com/",
+      "Descripción": "Repostitorio de fuentes Google",
+      "Date": ""
+    },
+    {
+      "Categoria": "Imagen",
+      "Nombre": "Freepick",
+      "Link": "https://www.freepik.es/",
+      "Descripción": "Repositorio de imágenes",
+      "Date": ""
+    },
+    {
+      "Categoria": "Imagen, Utilidades",
+      "Nombre": "Carbon",
+      "Link": "https://carbon.now.sh",
+      "Descripción": "Código a imagen RRSS",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño, Iconos, Imagen",
+      "Nombre": "IconScout",
+      "Link": "https://iconscout.com/es",
+      "Descripción": "Repositorio de Iconos",
+      "Date": ""
+    },
+    {
+      "Categoria": "API, Datos, Programación",
+      "Nombre": "Resend",
+      "Link": "https://resend.com",
+      "Descripción": "Envio de e-mail",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño, Fuentes",
+      "Nombre": "Fon Meme",
+      "Link": "https://fontmeme.com/es/",
+      "Descripción": "Generador de fuentes por marcas",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño, Iconos",
+      "Nombre": "Tabler Icons",
+      "Link": "https://tablericons.com",
+      "Descripción": "Repositorio de iconos",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL",
+      "Nombre": "Responsively",
+      "Link": "https://responsively.app",
+      "Descripción": "Herramienta para web responsive",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL, JavaScript",
+      "Nombre": "Guithub - mrcodedev",
+      "Link": "https://github.com/mrcodedev/frontend-developer-resources",
+      "Descripción": "Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos - GitHub - mrcodedev/frontend-developer-resources: Recursos gratuitos para empezar a ser un Frontend Developer o …",
+      "Date": ""
+    },
+    {
+      "Categoria": "Articulo",
+      "Nombre": "Ciberninjas RosePAc",
+      "Link": "https://ciberninjas.com/hoja-ruta-back-end/",
+      "Descripción": "Hoja de ruta, Fase a Fase, de las tecnologías que debes ir aprendiendo para ser un auténtico desarrollador web back-end de aplicaciones y páginas web.",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL, JavaScript",
+      "Nombre": "App Ideas",
+      "Link": "https://github.com/florinpop17/app-ideas",
+      "Descripción": "Este repositorio cuenta con muchísimos proyectos usando solamente HTML CSS y JS. Están divididos por dificultad para que encuentres los proyectos que más se adapten a ti.",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL, JavaScript",
+      "Nombre": "50 Projects 50 days",
+      "Link": "https://github.com/bradtraversy/50projects50days",
+      "Descripción": "En este repositorio encontraremos nada más y nada menos que 50 proyectos para realizar utilizando JavaScript.",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL, JavaScript",
+      "Nombre": "Frontend Mentor",
+      "Link": "https://www.frontendmentor.io/challenges?types=free,free-plus",
+      "Descripción": "Esta web es increíblemente útil cuando de practicar se trata. Cuenta con muchos retos diferentes, desde fácil hasta avanzado. No hay excusas, tienes todos los recursos para ponerte a practicar construyendo proyectos muy interesantes.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño, Fuentes",
+      "Nombre": "Free Faces gallery",
+      "Link": "https://www.freefaces.gallery",
+      "Descripción": "Galería fuentes",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño",
+      "Nombre": "Color Hub",
+      "Link": "https://www.colorhub.app",
+      "Descripción": "Paletas de colores",
+      "Date": ""
+    },
+    {
+      "Categoria": "JavaScript",
+      "Nombre": "AdventJS",
+      "Link": "https://adventjs.dev",
+      "Descripción": "Si lo que quieres es entrenar y mejorar tu lógica, AdventJS te ayudará muchísimo. Consta de 25 retos lógicos que puedes ir resolviendo dentro de la misma web.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Datos, JavaScript",
+      "Nombre": "JSON Placeholder",
+      "Link": "https://jsonplaceholder.typicode.com",
+      "Descripción": "JSON Placeholder, además de brindarnos datos de prueba y diferentes rutas, nos permite levantar nuestra propia API local en unos simples pasos",
+      "Date": ""
+    },
+    {
+      "Categoria": "JavaScript",
+      "Nombre": "Faker JS",
+      "Link": "https://fakerjs.dev",
+      "Descripción": "En FakerJS podremos generar cantidades masivas de datos falsos (pero realistas) para pruebas y desarrollo.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Datos",
+      "Nombre": "Mockaroo",
+      "Link": "https://www.mockaroo.com",
+      "Descripción": "¿Necesitas datos simulados para probar tu aplicación? Mockaroo te permite generar hasta 1000 filas de datos de prueba en formatos CSV, JSON, SQL y Excel.",
+      "Date": ""
+    },
+    {
+      "Categoria": "API, Datos",
+      "Nombre": "Apimocha",
+      "Link": "https://apimocha.com",
+      "Descripción": "APIMocha acelera el tiempo de tu desarrollo simulando una API, con respuestas personalizables y códigos de estado HTTP",
+      "Date": ""
+    },
+    {
+      "Categoria": "API",
+      "Nombre": "Mockend",
+      "Link": "https://mockend.com",
+      "Descripción": "Mockend es la aplicación número 1 de GitHub dedicada a la simulación de API sin código. ¡Sé productivo al instante!",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL",
+      "Nombre": "Picular",
+      "Link": "https://picular.co",
+      "Descripción": "Ingresas una palabra y IA genera colores asociados",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL",
+      "Nombre": "Image color Picker",
+      "Link": "https://imagecolorpicker.com",
+      "Descripción": "Obtiene la paleta de colores a través de una imagen",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL",
+      "Nombre": "Happy Hues",
+      "Link": "https://www.happyhues.co/",
+      "Descripción": "Simula landing completo cambiando paleta de colores de una web",
+      "Date": ""
+    },
+    {
+      "Categoria": "Guia, HMTL",
+      "Nombre": "HTML Reference",
+      "Link": "https://htmlreference.io",
+      "Descripción": "Guia HTML",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Guia",
+      "Nombre": "CSS Reference",
+      "Link": "https://cssreference.io",
+      "Descripción": "Guia CSS",
+      "Date": ""
+    },
+    {
+      "Categoria": "Píldoras, Tutoriales, YouTube",
+      "Nombre": "Píldoras Informáticas POO",
+      "Link": "https://youtube.com/playlist?list=PLU8oAlHdN5Bmfy5fL2-ByDUGa9cMagEXK",
+      "Descripción": "Curso de Píldoras Informáticas sobre POO",
+      "Date": ""
+    },
+    {
+      "Categoria": "Guia, Programación",
+      "Nombre": "Thttps://the-algorithms.com/es",
+      "Link": "https://the-algorithms.com/es",
+      "Descripción": "Biblioteca de algoritmos",
+      "Date": ""
+    },
+    {
+      "Categoria": "Utilidades",
+      "Nombre": "TinyWow",
+      "Link": "https://tinywow.com",
+      "Descripción": "TinyWow es una web increíble que contiene cientos de herramientas y funciones para casi cualquier cosa que necesites hacer",
+      "Date": ""
+    },
+    {
+      "Categoria": "Notion, Utilidades",
+      "Nombre": "El Tío Tech",
+      "Link": "https://eltiotech.com/curso-de-notion-gratis/",
+      "Descripción": "Curso de notion gratis",
+      "Date": ""
+    },
+    {
+      "Categoria": "Tutoriales, YouTube",
+      "Nombre": "Midudev",
+      "Link": "https://www.youtube.com/c/midudev",
+      "Descripción": "El canal de @midudev está 100% enfocado a enseñarte a programar, cuenta con muchos tutoriales, cursos enteros, y más contenido de calidad que te ayudará en este proceso.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Tutoriales, YouTube",
+      "Nombre": "Gonzalo Pozzo",
+      "Link": "https://www.youtube.com/c/GonzaloPozzo",
+      "Descripción": "En el canal de @goncy no encontrarás cursos, pero si muchisimo contenido práctico como, simulacros de entrevistas laborales, challenges de empresas, revisiones de LinkedIn, creación de proyectos y más!",
+      "Date": ""
+    },
+    {
+      "Categoria": "Tutoriales, YouTube",
+      "Nombre": "Fazt",
+      "Link": "https://www.youtube.com/c/FaztCode",
+      "Descripción": "El canal de @FaztTech no deja de traernos tutoriales increíbles para muchas tecnologías, si quieres aprender a programar este canal es esencial.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Tutoriales, YouTube",
+      "Nombre": "Fullstack Devs",
+      "Link": "https://www.youtube.com/c/TheFullstackDevs",
+      "Descripción": "Este canal lo descubrí hace poco y es una mina de oro, su contenido está enfocado a gente que aprende desde 0, con tutoriales actualizados, y explicados de una manera excelente.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Tutoriales, YouTube",
+      "Nombre": "Hola Mundo",
+      "Link": "https://www.youtube.com/c/HolaMundoDev",
+      "Descripción": "Este canal cuenta con cursos cortos pero de excelente calidad, y además de más contenido acerca del mundo laboral, y de tecnología en general.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Tutoriales, YouTube",
+      "Nombre": "Bluuweb",
+      "Link": "https://www.youtube.com/c/Bluuweb",
+      "Descripción": "Aqui encontrarás muchos cursos, súper completos y de muchas tecnologías diferentes, tanto de Front como de Back, te lo recomiendo muchísimo.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Tutoriales, YouTube",
+      "Nombre": "JonMircha",
+      "Link": "https://www.youtube.com/c/jonmircha",
+      "Descripción": "El canal de JonMircha conocido por muchos, contiene horas y horas de contenido para aprender a programar desde 0, cursos bien estructurados y de calidad.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Tutoriales, YouTube",
+      "Nombre": "Carlos Azaustre",
+      "Link": "https://www.youtube.com/c/CarlosAzaustre",
+      "Descripción": "Si eres fan de JavaScript el canal de @carlosazaustre es para ti, contiene tutoriales acerca de JS, React, Node y todo su ecosistema, además de contenido de valor para aprender a programar.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Tutoriales, YouTube",
+      "Nombre": "Antonio Sarosi",
+      "Link": "https://www.youtube.com/c/AntonioSarosi",
+      "Descripción": "Si eres fan del lado del servidor, el canal de @antoniosarosi es una mina de oro, contiene contenido excelente para comprender como funciona la web por detrás, aprenderás muchísimos conceptos que te ayudarán en tu día a día.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Tutoriales, YouTube",
+      "Nombre": "Desarrollo Útil",
+      "Link": "https://www.youtube.com/c/DesarrolloUtil",
+      "Descripción": "El canal de los chicos de @desarrollo_util es ideal para dar tus primeros pasos en la programación, como también aprender de conceptos mas avanzados.",
+      "Date": ""
+    },
+    {
+      "Categoria": "Guia, JavaScript",
+      "Nombre": "Javascript INFO",
+      "Link": "https://javascript.info/",
+      "Descripción": "Una de las guias mas completas sobre Javascript disponible en español e inglés, contiene muchísima info actualizada acerca de JS",
+      "Date": ""
+    },
+    {
+      "Categoria": "Guia, JAVA, Programación",
+      "Nombre": "ProyectoA.com",
+      "Link": "https://proyectoa.com/primera-aplicacion-en-modo-grafico-con-ventanas-en-java-con-intellij-idea-y-scenebuilder/#que-es-javafx",
+      "Descripción": "Primera aplicación en modo gráfico con ventanas en Java con IntelliJ IDEA y SceneBuilder",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL, Utilidades",
+      "Nombre": "Omatsuri",
+      "Link": "https://omatsuri.app",
+      "Descripción": "Utilidades HTML CSS",
+      "Date": ""
+    },
+    {
+      "Categoria": "Base de Datos, SQL, Tutoriales",
+      "Nombre": "SQL Easy",
+      "Link": "https://www.sql-easy.com/es/",
+      "Descripción": "Curso SQL",
+      "Date": ""
+    },
+    {
+      "Categoria": "Guia, JAVA",
+      "Nombre": "Formato numérico",
+      "Link": "https://josemmsimo.wordpress.com/2016/11/10/formatos-al-mostrar-resultados-de-numeros-reales-en-java-con-printf/",
+      "Descripción": "Formato numerico",
+      "Date": ""
+    },
+    {
+      "Categoria": "Video",
+      "Nombre": "https://github.com/iptv-org\n/https://github.com/iptv-org/iptv",
+      "Link": "https://github.com/iptv-org/iptv",
+      "Descripción": "Listado de canales IPTV",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL",
+      "Nombre": "Dribble",
+      "Link": "https://dribbble.com",
+      "Descripción": "Diseños web",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño",
+      "Nombre": "FlexBox",
+      "Link": "https://codepen.io/enxaneta/full/adLPwv",
+      "Descripción": "Modelo Flexbox",
+      "Date": ""
+    },
+    {
+      "Categoria": "Píldoras, Tutoriales",
+      "Nombre": "Full Stack Open",
+      "Link": "https://fullstackopen.com/es/",
+      "Descripción": "Bootcamp gratis",
+      "Date": ""
+    },
+    {
+      "Categoria": "API, JavaScript",
+      "Nombre": "npm winston",
+      "Link": "https://www.npmjs.com/package/winston",
+      "Descripción": "Control de registros, logs, errores, etc",
+      "Date": ""
+    },
+    {
+      "Categoria": "Iconos, Libreria",
+      "Nombre": "Hero icons",
+      "Link": "https://heroicons.com/",
+      "Descripción": "Blibioteca iconos",
+      "Date": ""
+    },
+    {
+      "Categoria": "JavaScript",
+      "Nombre": "SWC",
+      "Link": "https://swc.rs/playground",
+      "Descripción": "Compilador",
+      "Date": ""
+    },
+    {
+      "Categoria": "Articulo, CSS",
+      "Nombre": "CSS-Tricks",
+      "Link": "https://css-tricks.com/",
+      "Descripción": "Componentes CSS",
+      "Date": ""
+    },
+    {
+      "Categoria": "API, JavaScript",
+      "Nombre": "npm chalk",
+      "Link": "https://www.npmjs.com/package/chalk",
+      "Descripción": "Personalizar colores del terminal",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL",
+      "Nombre": "HTML5up",
+      "Link": "https://html5up.net",
+      "Descripción": "Plantillas HTML",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL, JavaScript",
+      "Nombre": "Code with Curious",
+      "Link": "https://codewithcurious.com/projects/",
+      "Descripción": "Proyectos",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño, Iconos",
+      "Nombre": "IconBuddy",
+      "Link": "https://iconbuddy.app",
+      "Descripción": "Repositorio de iconos",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño, Imagen",
+      "Nombre": "Ilustration Universe",
+      "Link": "https://illustrationsuniverse.com/#top-home",
+      "Descripción": "Ilustraciones web",
+      "Date": ""
+    },
+    {
+      "Categoria": "HMTL, IA, Imagen",
+      "Nombre": "Scrret Shoot to code",
+      "Link": "https://screenshottocode.com/#",
+      "Descripción": "De imagen a código",
+      "Date": ""
+    },
+    {
+      "Categoria": "API, JavaScript",
+      "Nombre": "npm http-server",
+      "Link": "https://www.npmjs.com/package/http-server",
+      "Descripción": "Permite hacer live server",
+      "Date": ""
+    },
+    {
+      "Categoria": "API, JavaScript",
+      "Nombre": "npm eslint",
+      "Link": "https://www.npmjs.com/package/eslint",
+      "Descripción": "Marcar reglas en código, para buscar uniformidad en estilos de código",
+      "Date": ""
+    },
+    {
+      "Categoria": "API, Diseño, JavaScript",
+      "Nombre": "Typely",
+      "Link": "https://www.typeitjs.com/",
+      "Descripción": "Estilos de animación de texto",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño, HMTL, IA",
+      "Nombre": "V0",
+      "Link": "https://v0.dev",
+      "Descripción": "Creación front con ia",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño, Imagen",
+      "Nombre": "svghub",
+      "Link": "https://svghub.vercel.app",
+      "Descripción": "Elementos ui",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL",
+      "Nombre": "PrettyFolio",
+      "Link": "https://www.prettyfolio.com",
+      "Descripción": "Ejemplos de portfolios",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL, JavaScript",
+      "Nombre": "JQuery",
+      "Link": "https://jquery.com/",
+      "Descripción": "Api general",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL",
+      "Nombre": "Colors.com",
+      "Link": "https://coolors.co/",
+      "Descripción": "Paletas de colores",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL",
+      "Nombre": "UI Colors",
+      "Link": "https://uicolors.app/create",
+      "Descripción": "Patrones de color y componentes",
+      "Date": ""
+    },
+    {
+      "Categoria": "Practica, Tutoriales",
+      "Nombre": "Clone Wars Github",
+      "Link": "https://github.com/GorvGoyl/Clone-Wars",
+      "Descripción": "Clones de las webs más famosas, tutoriales, tecnologia, etc.",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL, JavaScript, Libreria",
+      "Nombre": "Materialize css",
+      "Link": "https://materializecss.com/",
+      "Descripción": "Framework",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL",
+      "Nombre": "Scroll bar",
+      "Link": "https://lyqht.github.io/scrollbar-playground/",
+      "Descripción": "Estilos para bara",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL",
+      "Nombre": "Colorhexa",
+      "Link": "https://www.colorhexa.com/",
+      "Descripción": "Paletas de colores",
+      "Date": ""
+    },
+    {
+      "Categoria": "Tutoriales",
+      "Nombre": "Scrimba",
+      "Link": "https://scrimba.com",
+      "Descripción": "Cursos",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL, Libreria, Utilidades",
+      "Nombre": "Next UI",
+      "Link": "https://nextui.org",
+      "Descripción": "Libreria de UI",
+      "Date": ""
+    },
+    {
+      "Categoria": "API",
+      "Nombre": "Rapid Api",
+      "Link": "https://rapidapi.com/hub",
+      "Descripción": "Repositorio de API",
+      "Date": ""
+    },
+    {
+      "Categoria": "Articulo, Guia, Programación",
+      "Nombre": "OverApi",
+      "Link": "https://overapi.com/",
+      "Descripción": "Coleccion de Cheat Sheets",
+      "Date": ""
+    },
+    {
+      "Categoria": "Programación, Utilidades",
+      "Nombre": "Json Crack",
+      "Link": "https://jsoncrack.com/",
+      "Descripción": "Convierte los Json en esquemas visuales",
+      "Date": ""
+    },
+    {
+      "Categoria": "Imagen, Utilidades",
+      "Nombre": "Haikei",
+      "Link": "https://haikei.app/",
+      "Descripción": "Creador de svg",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL",
+      "Nombre": "Can I use",
+      "Link": "https://caniuse.com",
+      "Descripción": "Compatibilidad de atributos CSS",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL",
+      "Nombre": "Specifity Calculator",
+      "Link": "https://specificity.keegan.st/",
+      "Descripción": "Calculadora de especificidad de elementos html con css",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL",
+      "Nombre": "Get Bem",
+      "Link": "https://getbem.com",
+      "Descripción": "Nomenclaturas CSS, estructura de etiquetado",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS",
+      "Nombre": "Normaliza.css",
+      "Link": "https://necolas.github.io/normalize.css/",
+      "Descripción": "Normalizar css (mejora del reset CSS)",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño",
+      "Nombre": "oklch",
+      "Link": "https://oklch.com/#70,0.1,123,100",
+      "Descripción": "Estilos de color",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño",
+      "Nombre": "LawsofUX",
+      "Link": "https://lawsofux.com/es/",
+      "Descripción": "Patrones de diseño UX",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS",
+      "Nombre": "MDN CSS",
+      "Link": "https://developer.mozilla.org/es/docs/Web/CSS",
+      "Descripción": "MDN CSS",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS",
+      "Nombre": "LenguajeCSS",
+      "Link": "https://lenguajecss.com/",
+      "Descripción": "Manual CSS",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL",
+      "Nombre": "WebDev",
+      "Link": "https://web.dev/learn/css?hl=es",
+      "Descripción": "Curso web Google",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL, JavaScript",
+      "Nombre": "Animated Backgrounds",
+      "Link": "https://animatedbackgrounds.me/",
+      "Descripción": "Backgrounds animados",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño, Fuentes",
+      "Nombre": "FlaminText",
+      "Link": "https://flamingtext.es/Cool-Text-Generator",
+      "Descripción": "Generador texto",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño",
+      "Nombre": "Huemint",
+      "Link": "https://huemint.com/brand-intersection/",
+      "Descripción": "Combinaciones de colores",
+      "Date": ""
+    },
+    {
+      "Categoria": "Base de Datos",
+      "Nombre": "DBdiagram",
+      "Link": "https://dbdiagram.io/home",
+      "Descripción": "Dibujar diagramas base de datos a partir de código",
+      "Date": ""
+    },
+    {
+      "Categoria": "Guia, Practica",
+      "Nombre": "Front End Practice",
+      "Link": "https://www.frontendpractice.com/projects",
+      "Descripción": "Ejemplos para practicar",
+      "Date": ""
+    },
+    {
+      "Categoria": "Guia, Tutoriales",
+      "Nombre": "Khan Acedemy",
+      "Link": "https://es.khanacademy.org/computing/computer-science/algorithms",
+      "Descripción": "Curso mejora lógica - Algorítmos",
+      "Date": ""
+    },
+    {
+      "Categoria": "Servidor",
+      "Nombre": "Fl0",
+      "Link": "https://app.fl0.com/kaesar84dev",
+      "Descripción": "Servidor",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL",
+      "Nombre": "Collect UI",
+      "Link": "https://collectui.com/designs",
+      "Descripción": "Inspiración de elementos UI",
+      "Date": ""
+    },
+    {
+      "Categoria": "JavaScript",
+      "Nombre": "Artropos JS",
+      "Link": "https://atroposjs.com/",
+      "Descripción": "Librería Efectos 3d",
+      "Date": ""
+    },
+    {
+      "Categoria": "Imagen",
+      "Nombre": "Pngegg",
+      "Link": "https://www.pngegg.com/es",
+      "Descripción": "Banco de imágenes png",
+      "Date": ""
+    },
+    {
+      "Categoria": "API",
+      "Nombre": "RAWG",
+      "Link": "https://rawg.io/apidocs",
+      "Descripción": "Api de videojuegos",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL",
+      "Nombre": "Responsively",
+      "Link": "https://responsively.app",
+      "Descripción": "Aplicación para diseño responsive",
+      "Date": ""
+    },
+    {
+      "Categoria": "JavaScript, Tutoriales",
+      "Nombre": "LibreriasJs",
+      "Link": "https://libreriasjs.com/",
+      "Descripción": "Tutoriales librerias JS",
+      "Date": ""
+    },
+    {
+      "Categoria": "Utilidades",
+      "Nombre": "MarkDown",
+      "Link": "https://markdown.es/",
+      "Descripción": "Código de escritura",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL",
+      "Nombre": "Uiverse",
+      "Link": "https://uiverse.io",
+      "Descripción": "Repositorio de elementos",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL",
+      "Nombre": "Wweb",
+      "Link": "https://wweb.dev",
+      "Descripción": "Generador de fondos, animaciones, etc",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, Diseño, HMTL",
+      "Nombre": "Animista",
+      "Link": "https://animista.net/play/basic/scale-up/scale-up-hor-center",
+      "Descripción": "Animaciones",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL",
+      "Nombre": "Loaders",
+      "Link": "https://cssloaders.github.io",
+      "Descripción": "Loaders",
+      "Date": ""
+    },
+    {
+      "Categoria": "Utilidades",
+      "Nombre": "MoureDev",
+      "Link": "https://github.com/mouredev/hello-git",
+      "Descripción": "Curso git",
+      "Date": ""
+    },
+    {
+      "Categoria": "Utilidades",
+      "Nombre": "Ohmyz",
+      "Link": "https://ohmyz.sh",
+      "Descripción": "Personalizar el terminal",
+      "Date": ""
+    },
+    {
+      "Categoria": "IA",
+      "Nombre": "AI findy",
+      "Link": "https://aifindy.com",
+      "Descripción": "Repositorio de IA",
+      "Date": ""
+    },
+    {
+      "Categoria": "Git",
+      "Nombre": "GitHub Guia Esp",
+      "Link": "https://training.github.com/downloads/es_ES/github-git-cheat-sheet/",
+      "Descripción": "Resumen gitHub en castellano",
+      "Date": ""
+    },
+    {
+      "Categoria": "Git",
+      "Nombre": "Documentación gitHub",
+      "Link": "https://docs.github.com/es/get-started",
+      "Descripción": "Documentación de GitHub castellano",
+      "Date": ""
+    },
+    {
+      "Categoria": "Git",
+      "Nombre": "Autentificación",
+      "Link": "https://docs.github.com/es/authentication/connecting-to-github-with-ssh/about-ssh",
+      "Descripción": "Seguridad",
+      "Date": ""
+    },
+    {
+      "Categoria": "IA",
+      "Nombre": "Chat PDF",
+      "Link": "https://www.chatpdf.com/",
+      "Descripción": "Chat a partir de PDF",
+      "Date": ""
+    },
+    {
+      "Categoria": "Servidor",
+      "Nombre": "Apache",
+      "Link": "https://httpd.apache.org/docs/2.4/",
+      "Descripción": "Documentación apache",
+      "Date": ""
+    },
+    {
+      "Categoria": "CSS, HMTL, JavaScript",
+      "Nombre": "ASOS",
+      "Link": "https://michalsnik.github.io/aos/",
+      "Descripción": "Librería de animaciones para scroll",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño",
+      "Nombre": "Color Hunt",
+      "Link": "https://colorhunt.co/",
+      "Descripción": "Paletas de colores",
+      "Date": ""
+    },
+    {
+      "Categoria": "API",
+      "Nombre": "Generador DNI",
+      "Link": "https://generadordni.es/#home",
+      "Descripción": "Generador de dni, contraseñas, datos, etc",
+      "Date": ""
+    },
+    {
+      "Categoria": "JavaScript",
+      "Nombre": "Floating UI",
+      "Link": "https://floating-ui.com/",
+      "Descripción": "Librería elementos flotantes",
+      "Date": ""
+    },
+    {
+      "Categoria": "JavaScript",
+      "Nombre": "Toasttyfy",
+      "Link": "https://apvarun.github.io/toastify-js/#",
+      "Descripción": "Librería para notificaciones",
+      "Date": ""
+    },
+    {
+      "Categoria": "JavaScript",
+      "Nombre": "Sliders",
+      "Link": "https://swiperjs.com",
+      "Descripción": "Librería de sliders",
+      "Date": ""
+    },
+    {
+      "Categoria": "JavaScript",
+      "Nombre": "Tailwindcss",
+      "Link": "https://tailwindcss.com",
+      "Descripción": "Librería tailwindcss",
+      "Date": ""
+    },
+    {
+      "Categoria": "Base de Datos",
+      "Nombre": "DataLemur",
+      "Link": "https://datalemur.com/",
+      "Descripción": "Ejercicios MySql",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño, Iconos",
+      "Nombre": "Animated Icons",
+      "Link": "https://animatedicons.co/",
+      "Descripción": "Iconos animados",
+      "Date": ""
+    },
+    {
+      "Categoria": "",
+      "Nombre": "",
+      "Link": "",
+      "Descripción": "",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño, IA",
+      "Nombre": "Framer",
+      "Link": "https://framer.com/projects/folder/recent?team=a41bbc57-f3f5-3f2a-8f69-10b22c3536e6",
+      "Descripción": "Genera diseño web por IA",
+      "Date": ""
+    },
+    {
+      "Categoria": "IA",
+      "Nombre": "UseBlackBox",
+      "Link": "https://www.useblackbox.io",
+      "Descripción": "Copiloto programación",
+      "Date": ""
+    },
+    {
+      "Categoria": "Diseño",
+      "Nombre": "Paleta colores Dragon Ball",
+      "Link": "https://dragonballfanon.fandom.com/es/wiki/Dragon_Ball_Fanon_Wiki:Paleta_de_Colores",
+      "Descripción": "Paleta de colores Dragon Ball",
+      "Date": ""
+    },
+    {
+      "Categoria": "Guia, Practica",
+      "Nombre": "Front End Mentor",
+      "Link": "https://www.frontendmentor.io/challenges",
+      "Descripción": "Ejemplos para practicar",
+      "Date": ""
+    },
+    {
+      "Categoria": "Guia, Practica",
+      "Nombre": "Dev Challenges",
+      "Link": "https://devchallenges.io",
+      "Descripción": "Ejemplos para practicar",
+      "Date": ""
+    },
+    {
+      "Categoria": "Guia, Practica",
+      "Nombre": "Code Well",
+      "Link": "https://www.codewell.cc",
+      "Descripción": "Ejemplos para practicar",
+      "Date": ""
+    },
+    {
+      "Categoria": "Fuentes",
+      "Nombre": "Type A4",
+      "Link": "https://typea4.com/es/",
+      "Descripción": "Letra página completa",
+      "Date": ""
+    },
+    {
+      "Categoria": "Git, Practica",
+      "Nombre": "Learning git Branching",
+      "Link": "https://learngitbranching.js.org/?locale=es_ES",
+      "Descripción": "Tutorial de git, visual y en castellano",
+      "Date": ""
+    },
+    {
+      "Categoria": "Imagen",
+      "Nombre": "Pexels",
+      "Link": "https://www.pexels.com/es-es/",
+      "Descripción": "Repostitorio imagenes",
+      "Date": ""
+    },
+    {
+      "Categoria": "API, Imagen",
+      "Nombre": "Unavatar",
+      "Link": "https://unavatar.io/#/",
+      "Descripción": "API Avatares",
+      "Date": ""
+    },
+    {
+      "Categoria": "Imagen, Utilidades",
+      "Nombre": "Excalidraw",
+      "Link": "https://excalidraw.com/",
+      "Descripción": "Aplicacion diagramas, dibujos",
+      "Date": ""
+    }
+  ]
